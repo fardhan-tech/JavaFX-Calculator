@@ -40,6 +40,7 @@ Beberapa fungsi masih perlu diperbaiki atau dikembangkan, seperti:
 5. Aplikasi kalkulator akan muncul.
 
 ## Screenshot Aplikasi
+<img width="245" height="320" alt="Screenshot 2026-11-02 152959" src="https://github.com/user-attachments/assets/60e4c0be-c4bb-453c-a201-3a38afe4ddd1" />
 
 
 ## Author
